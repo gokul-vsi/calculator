@@ -1,0 +1,24 @@
+.main-div{
+    width: 250px !important;
+    box-shadow: 5px 5px 10px #ccc;
+    background-color: #8967B3;
+    border-radius: 5px;
+}
+.h3{
+    color: #fff !important;
+}
+.btn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50% !important;
+    border: none;
+    outline: none;
+   background-color: #fff !important;
+}
+.btn1{
+    width: 100%;
+    padding: 7px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
