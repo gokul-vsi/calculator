@@ -11,7 +11,7 @@
     height: 50px;
     width: 50px;
     border-radius: 50% !important;
-    border: none;
+    border: none !important;
     border: 1px solid #fff !important;
     outline: none;
     background-color: #fff !important;
