@@ -12,8 +12,9 @@
     width: 50px;
     border-radius: 50% !important;
     border: none;
+    border: 1px solid #fff !important;
     outline: none;
-   background-color: #fff !important;
+    background-color: #fff !important;
 }
 .btn1{
     width: 100%;
